@@ -1,0 +1,15 @@
+What is voltage?
+Voltage is an electric charge imbalance and capable of provoking electrons to flow through a conductor.
+
+What is resistance?
+Resistance to electric current depends on the type of material, its cross-sectional area, and its temperature.
+Resistance serves to limit the amount of current through the circuit with a given amount of voltage supplied by the battery.
+
+Is a short circuit an example of a closed or open circuit?
+Open circuit.
+
+How can you determine if a cricuit is closed or open?
+To see if there is a flow of electrons or a voltage.
+
+Did you set up your computer to use the Feather?
+I tried but the program won't open after I downloaded it. 
