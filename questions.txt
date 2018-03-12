@@ -12,4 +12,4 @@ How can you determine if a cricuit is closed or open?
 To see if there is a flow of electrons or a voltage.
 
 Did you set up your computer to use the Feather?
-I tried but the program won't open after I downloaded it. 
+Yes.
